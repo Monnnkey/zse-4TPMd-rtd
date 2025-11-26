@@ -45,7 +45,7 @@ Kod Blokowy
 Odnosnik
 --------
 
-`Moje repozytorium na GitHubie <https://github.com/Monnkey/zse-4TPMD-rtd>`_
+`Moje repozytorium na GitHubie <https://github.com/Monnnkey/zse-4TPMd-rtd>`_
 
 Listy
 -----
@@ -62,7 +62,19 @@ Obraz
 -----
 
 .. image:: https://tiny.pl/06yd8xzf
-   :alt: Budynek
+   :alt: Wojfer
+
+Tabela
+------
+
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
 
 
 
