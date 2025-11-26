@@ -4,7 +4,7 @@ Dokumentacja projektu
 
 **Autor:** Miłosz Dudek  
 
-**Klasa:** 4TPMD  
+**Klasa:** 4TP  
 
 **Rok szkolny:** 2025/2026
 
