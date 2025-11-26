@@ -45,7 +45,7 @@ Kod Blokowy
 Odnosnik
 --------
 
-Link do mojego repozytorium `<https://github.com/Monnkey/zse-4TPMD-rtd>`
+Link do mojego repozytorium `https://github.com/Monnkey/zse-4TPMD-rtd`
 
 Listy
 -----
