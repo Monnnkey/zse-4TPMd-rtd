@@ -1,9 +1,10 @@
-============
-Dokumentacja
-============
+=====================
+Dokumentacja projektu
+=====================
 
-**Autor:** Miłosz Dudek
-**Klasa:** 4TP  
+**Autor:** Miłosz Dudek  
+**Klasa:** 4TPMD  
+**Rok szkolny:** 2025/2026
 
 Spis treści
 ===========
