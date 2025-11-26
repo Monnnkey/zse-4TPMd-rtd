@@ -1,5 +1,5 @@
 Kontakt
 =======
 
-.. note::
-   Email: dmdmilosz@gmail.com
+.. email::
+   dmdmilosz@gmail.com
