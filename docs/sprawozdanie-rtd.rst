@@ -3,8 +3,9 @@ Sprawozdanie-rst
 
 Elementy składni:
 
+===================
 Nagłówek poziomu 1
-==========================
+===================
 
 Nagłówek poziomu 2
 ^^^^^^^^^^^^^^^^^^
