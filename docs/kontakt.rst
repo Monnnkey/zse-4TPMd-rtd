@@ -1,4 +1,4 @@
 Kontakt
 =======
 
-**Email: ** dmdmilosz@gmail.com
+**Email:** dmdmilosz@gmail.com
