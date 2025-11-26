@@ -25,6 +25,7 @@ Akapit informacyjny
 .. note::
   To jest notatka
 
+
 .. tip::
   To jest podpowiedź
 
@@ -41,7 +42,7 @@ Kod Blokowy
   def test():
     print("Test")
 
-odnosnik
+Odnosnik
 --------
 
 Link do mojego repozytorium `<https://github.com/Monnkey/zse-4TPMD-rtd>`
@@ -56,6 +57,12 @@ Listy
 1. Jeden
 2. Dwa
 3. Trzy
+
+Obraz
+-----
+
+.. image:: https://pixabay.com/photos/warsaw-cityscape-poland-4668259/
+   :alt: Budynek
 
 
 
