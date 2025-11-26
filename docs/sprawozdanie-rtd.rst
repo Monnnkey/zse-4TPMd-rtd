@@ -45,7 +45,7 @@ Kod Blokowy
 Odnosnik
 --------
 
-Link do mojego repozytorium `https://github.com/Monnkey/zse-4TPMD-rtd`
+`Moje repozytorium na GitHubie <https://github.com/Monnkey/zse-4TPMD-rtd>`_
 
 Listy
 -----
@@ -61,7 +61,7 @@ Listy
 Obraz
 -----
 
-.. image:: https://pixabay.com/photos/warsaw-cityscape-poland-4668259/
+.. image:: https://tiny.pl/06yd8xzf
    :alt: Budynek
 
 
