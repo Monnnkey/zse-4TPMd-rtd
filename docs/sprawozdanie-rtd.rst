@@ -40,8 +40,17 @@ Nagłówek poziomu 4
 
 To jest zwykły akapit.
 
+.. code-block:: txt
+
+  Akapit informacyjny
+  -------------------
+
 Akapit informacyjny
 -------------------
+
+.. code-block:: txt
+  .. note::
+  To jest notatka
 
 .. note::
   To jest notatka
