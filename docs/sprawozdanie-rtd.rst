@@ -38,8 +38,8 @@ Nagłówek poziomu 3
 Nagłówek poziomu 4
 """"""""""""""""""
 
-Akapit informacyjny (tzw. „tytułowy”)
--------------------------------------
+Akapit informacyjny
+-------------------
 
 .. code-block:: rst
 
@@ -52,7 +52,7 @@ To jest zwykły akapit.
 Akapit informacyjny
 -------------------
 
-Uwagi, podpowiedzi, ostrzeżenia
+Uwagi, podpowiedzi
 -------------------------------
 
 .. code-block:: rst
@@ -71,14 +71,6 @@ Uwagi, podpowiedzi, ostrzeżenia
 .. tip::
    To jest podpowiedź
 
-.. code-block:: rst
-
-   .. warning::
-      Uważaj na to!
-
-.. warning::
-   Uważaj na to!
-
 Kod liniowy (inline)
 --------------------
 
@@ -96,12 +88,12 @@ Kod blokowy
    .. code-block:: python
 
       def hello():
-          print("Witaj w reST!")
+          print("Witaj")
 
 .. code-block:: python
 
    def hello():
-       print("Witaj w reST!")
+       print("Witaj")
 
 Odnośniki (linki)
 -----------------
@@ -132,11 +124,11 @@ Listy numerowane
 
    1. Pierwszy
    2. Drugi
-   #. Automatyczna numeracja też działa
+   #. trzy
 
 1. Pierwszy
 2. Drugi
-#. Automatyczna numeracja też działa
+#. trzy
 
 Obrazki
 -------
