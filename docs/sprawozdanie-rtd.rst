@@ -4,10 +4,11 @@ Sprawozdanie-rst
 Nagłowki
 --------
 
+.. code-block:: txt
 
-``===================``
-``Nagłówek poziomu 1``
-``===================``
+  ===================
+  Nagłówek poziomu 1
+  ===================
 
 ===================
 Nagłówek poziomu 1
