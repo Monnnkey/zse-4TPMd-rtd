@@ -4,11 +4,10 @@ Sprawozdanie-rst
 Nagłowki
 --------
 
-``
+::
   ===================
   Nagłówek poziomu 1
   ===================
-``
 
 ===================
 Nagłówek poziomu 1
