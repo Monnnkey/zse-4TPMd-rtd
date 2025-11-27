@@ -14,11 +14,26 @@ Nagłowki
 Nagłówek poziomu 1
 ===================
 
+.. code-block:: txt
+
+  Nagłówek poziomu 2
+  ^^^^^^^^^^^^^^^^^^
+
 Nagłówek poziomu 2
 ^^^^^^^^^^^^^^^^^^
 
+.. code-block:: txt
+
+  Nagłówek poziomu 3
+  ~~~~~~~~~~~~~~~~~~
+
 Nagłówek poziomu 3
 ~~~~~~~~~~~~~~~~~~
+
+.. code-block:: txt
+
+  Nagłówek poziomu 4
+  """"""""""""""""""
 
 Nagłówek poziomu 4
 """"""""""""""""""
