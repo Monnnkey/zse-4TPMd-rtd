@@ -1,110 +1,177 @@
 Sprawozdanie-rst
 ================
 
-Nagłowki
+Nagłówki
 --------
 
-.. code-block:: txt
+.. code-block:: rst
 
-  ===================
-  Nagłówek poziomu 1
-  ===================
+   ===================
+   Nagłówek poziomu 1
+   ===================
 
 ===================
 Nagłówek poziomu 1
 ===================
 
-.. code-block:: txt
+.. code-block:: rst
 
-  Nagłówek poziomu 2
-  ^^^^^^^^^^^^^^^^^^
+   Nagłówek poziomu 2
+   ^^^^^^^^^^^^^^^^^^
 
 Nagłówek poziomu 2
 ^^^^^^^^^^^^^^^^^^
 
-.. code-block:: txt
+.. code-block:: rst
 
-  Nagłówek poziomu 3
-  ~~~~~~~~~~~~~~~~~~
+   Nagłówek poziomu 3
+   ~~~~~~~~~~~~~~~~~~
 
 Nagłówek poziomu 3
 ~~~~~~~~~~~~~~~~~~
 
-.. code-block:: txt
+.. code-block:: rst
 
-  Nagłówek poziomu 4
-  """"""""""""""""""
+   Nagłówek poziomu 4
+   """"""""""""""""""
 
 Nagłówek poziomu 4
 """"""""""""""""""
 
+Akapit informacyjny (tzw. „tytułowy”)
+-------------------------------------
+
+.. code-block:: rst
+
+   To jest zwykły akapit.
+   -------------------
+   Akapit informacyjny
+   -------------------
+
 To jest zwykły akapit.
-
-.. code-block:: txt
-
-  Akapit informacyjny
-  -------------------
-
 Akapit informacyjny
 -------------------
 
-.. code-block:: txt
-  .. note::
-  To jest notatka
+Uwagi, podpowiedzi, ostrzeżenia
+-------------------------------
+
+.. code-block:: rst
+
+   .. note::
+      To jest notatka
 
 .. note::
-  To jest notatka
+   To jest notatka
 
+.. code-block:: rst
+
+   .. tip::
+      To jest podpowiedź
 
 .. tip::
-  To jest podpowiedź
+   To jest podpowiedź
 
-Kod liniowy
+.. code-block:: rst
+
+   .. warning::
+      Uważaj na to!
+
+.. warning::
+   Uważaj na to!
+
+Kod liniowy (inline)
+--------------------
+
+.. code-block:: rst
+
+   Użyj metody ``System.out.println()`` w Javie.
+
+Użyj metody ``System.out.println()`` w Javie.
+
+Kod blokowy
 -----------
 
-``console.log("Hello World")``
+.. code-block:: rst
 
-Kod Blokowy
------------
+   .. code-block:: python
+
+      def hello():
+          print("Witaj w reST!")
 
 .. code-block:: python
 
-  def test():
-    print("Test")
+   def hello():
+       print("Witaj w reST!")
 
-Odnosnik
---------
+Odnośniki (linki)
+-----------------
+
+.. code-block:: rst
+
+   `Moje repozytorium na GitHubie <https://github.com/Monnnkey/zse-4TPMd-rtd>`_
 
 `Moje repozytorium na GitHubie <https://github.com/Monnnkey/zse-4TPMd-rtd>`_
 
-Listy
------
+Listy nienumerowane
+-------------------
 
-- pierwszy
-- drugi
-- trzeci
+.. code-block:: rst
 
-1. Jeden
-2. Dwa
-3. Trzy
+   - pierwszy element
+   - drugi element
+   - trzeci element
 
-Obraz
------
+- pierwszy element
+- drugi element
+- trzeci element
+
+Listy numerowane
+----------------
+
+.. code-block:: rst
+
+   1. Pierwszy
+   2. Drugi
+   #. Automatyczna numeracja też działa
+
+1. Pierwszy
+2. Drugi
+#. Automatyczna numeracja też działa
+
+Obrazki
+-------
+
+.. code-block:: rst
+
+   .. image:: https://tiny.pl/06yd8xzf
+      :alt: Wojfer
+      :width: 300px
+      :align: center
 
 .. image:: https://tiny.pl/06yd8xzf
    :alt: Wojfer
+   :width: 400px
+   :align: center
 
-Tabela
-------
+Tabele – prosta składnia
+------------------------
+
+.. code-block:: rst
+
+   =====  =====  =======
+   A      B      A and B
+   =====  =====  =======
+   False  False  False
+   True   False  True
+   False  True   True
+   True   True   True
+   =====  =====  =======
 
 =====  =====  =======
 A      B      A and B
 =====  =====  =======
 False  False  False
-True   False  False
-False  True   False
+True   False  True
+False  True   True
 True   True   True
 =====  =====  =======
-
-
-
